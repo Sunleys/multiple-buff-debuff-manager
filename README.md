@@ -20,9 +20,8 @@ Many games that have the Ability Up buff will also have a corresponding Ability 
   - Increases the effect of the next attack or spell used. Many of these are self-used, effectively using two turns/actions for a single, stronger attack (which, depending on the game rules and opponent's defensive strength, can be more effective than two regular attacks).
   
 - Protect:
-  - Reduces damage taken, often by a specific source. Many games have variations on this for different types of damage (e.g. physical or magic), and some even going as far as having Protect spells against individual elements. A partial reflect may or may not be built in.
+  - Reduces damage taken, often by a specific source. Many games have variations on this for different types of damage (e.g. physical or magic), and some even going as far as having Protect spells against individual elements. A partial reflect may or may not be built in.</br>
 
-</br>
 ### Buff & Debuff applied in different videogames / games 
 
 #### World of Warcraft ([official website](https://worldofwarcraft.com/es-es/))
