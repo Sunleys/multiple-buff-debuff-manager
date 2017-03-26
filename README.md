@@ -2,6 +2,7 @@
 
 ## Introduction 
 
+
 ### Generic examples of common buffs
 - Ability Up:
   - Whether it's Strength, Speed, Defense, Magic, or other stats, this will grant the recipient of these spells a temporary flat increase to that stat, thus improving the results of all internal calculations derived from it (be it damage, healing, accuracy, or so on). In some games, this is an "official" buff that can be neutralized by a Status-Buff Dispel. In some games, there may be just one of these (usually for Attack), while in others, they may be absent, except for increasing levels of Agility Up/Down.
@@ -49,6 +50,24 @@ Minecraft has several status buffs that are obtained from potions and using beac
 . _Health Boost_: Temporarily increases your maximum health.</br>
 
 
+## Introduction to the problem
+
+## Description in detail for the selected approach
+
+aqui tot 
+
+## Links to more documentation
+
+## TODOs
+
+## Optional Homework for practicing
+
+no cal oi ? 
+
+## Explanation of any other improvements on the system
+
+millores
+clasificacio buff debuff amb la etiqueta del tipus 
 
 ### Markdown
 
@@ -56,13 +75,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
